@@ -1,2 +1,2 @@
 # BlackScholesModel
-This Program uses the Black Scholes method for calculating the value of an option and uses user input
+This Program uses Monte Carlo pricing and compares it to the Black Scholes method for calculating the value of an option
